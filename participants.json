@@ -50,59 +50,19 @@
     },
     "L1_ses-01": {
         "Description": "Peformance on adapted Boston Naming Test in subject's native language (Spanish) in the first session",
-        "Units": "percent accuracy",
-        "Annotations": {
-            "IsAbout": {
-                "TermURL": "nb:Assessment",
-                "Label": ""
-            },
-            "IsPartOf": {
-                "TermURL": "cogatlas:tsk_4a57abb9498ef",
-                "Label": ""
-            }
-        }
+        "Units": "percent accuracy"
     },
     "L1_ses-02": {
         "Description": "Peformance on adapted Boston Naming Test in subject's native language (Spanish) in the second session",
-        "Units": "percent accuracy",
-        "Annotations": {
-            "IsAbout": {
-                "TermURL": "nb:Assessment",
-                "Label": ""
-            },
-            "IsPartOf": {
-                "TermURL": "cogatlas:tsk_4a57abb9498ef",
-                "Label": ""
-            }
-        }
+        "Units": "percent accuracy"
     },
     "Ln_ses-01": {
         "Description": "Peformance on adapted Boston Naming Test in subject's new language (English) in the first session",
-        "Units": "percent accuracy",
-        "Annotations": {
-            "IsAbout": {
-                "TermURL": "nb:Assessment",
-                "Label": ""
-            },
-            "IsPartOf": {
-                "TermURL": "cogatlas:tsk_4a57abb9498ef",
-                "Label": ""
-            }
-        }
+        "Units": "percent accuracy"
     },
     "Ln_ses-02": {
         "Description": "Peformance on adapted Boston Naming Test in subject's new language (English) in the second session",
-        "Units": "percent accuracy",
-        "Annotations": {
-            "IsAbout": {
-                "TermURL": "nb:Assessment",
-                "Label": ""
-            },
-            "IsPartOf": {
-                "TermURL": "cogatlas:tsk_4a57abb9498ef",
-                "Label": ""
-            }
-        }
+        "Units": "percent accuracy"
     },
     "participant_id": {
         "Annotations": {
